@@ -2,6 +2,8 @@
     - [介绍](rfc7230/Introduction/README.md)
         - [要求表示法](rfc7230/Introduction/Requirements_Notation.md)
         - [语法表示法](rfc7230/Introduction/Syntax_Notation.md)
+    - [结构](rfc7230/Architecture/README.md)
+        - [客户端/服务器消息](rfc7230/Architecture/Client_Server_Messaging.md)
 * [语义和内容]()
 * [条件请求]()
 * [范围请求]()
