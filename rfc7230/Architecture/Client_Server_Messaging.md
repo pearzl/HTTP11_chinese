@@ -20,7 +20,7 @@ UA ======================================= O
 
 一个连接可能用于多个请求/响应交互，这定义在6.3节。
 
-下面的例子说明了一个对URI为“http://www.example.com/hello.txt”的GET请求（RFC7231的4.3.1节）的一个典型的消息交换：
+下面的例子说明了一个对URI为 “http://www.example.com/hello.txt” 的GET请求（RFC7231的4.3.1节）的一个典型的消息交换：
 
 客户端请求:
 
@@ -33,6 +33,7 @@ UA ======================================= O
 
 服务器响应：
 
+> ```
 > HTTP/1.1 200 OK
 > Date: Mon, 27 Jul 2009 12:28:53 GMT
 > Server: Apache
@@ -44,3 +45,4 @@ UA ======================================= O
 > Content-Type: text/plain
 >
 > Hello World! My payload includes a trailing CRLF.
+> ```
