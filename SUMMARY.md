@@ -9,6 +9,7 @@
         - [2.4 缓存](rfc7230/Architecture/Caches.md)
         - [2.5 一致性和错误处理](rfc7230/Architecture/Conformance_and_Error_Handling.md)
         - [2.6 协议版本](rfc7230/Architecture/Protocol_Versioning.md)
+        - [2.7 统一资源标识符](frc7230/Architecture/Uniform_Resource_Identifiers.md)
 - [语义和内容](rfc7231/README.md)
 - [条件请求](rfc7232/README.md)
 - [范围请求](rfc7233/README.md)
