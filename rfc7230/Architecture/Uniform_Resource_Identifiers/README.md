@@ -1,6 +1,6 @@
 整个HTTP使用统一资源标识符（URIs）[RFC3986]作为识别资源（[RFC7231]的第2节）的方式。URI引用用于定位请求，指示重定向和定义关系。
 
-对"URI-reference", "absolute-URI", "relative-part", "scheme", "authority", "port", "host", "path-abempty", "segment", "query", and "fragment" 的定义采用通用URI语法。"absolute-path"规则是为可以包含一个非空的路径组件的协议元素而定义的。（这个规则与RFC3986中的path-abempty规则略有不同，它允许在引用中使用空路径，而path-absolute规则不允许“//”开头的路径。）partial-URI规则是为可以包含一个相对URI但不包含片段组件的协议组件而定义的。
+对"URI-reference", "absolute-URI", "relative-part", "scheme", "authority", "port", "host", "path-abempty", "segment", "query", and "fragment" 的定义采用通用URI语法。"absolute-path"规则是为可以包含一个非空的路径组件的协议元素而定义的。（这个规则与RFC3986中的path-abempty规则略有不同，它允许在引用中使用空路径，而path-absolute规则不允许“//”开头的路径。）"partial-URI"规则是为可以包含一个相对URI但不包含片段组件的协议元素而定义的。
 
 > ```
 >     URI-reference = <URI-reference, see [RFC3986], Section 4.1>
