@@ -12,7 +12,7 @@
         - [2.7 统一资源标识符](rfc7230/Architecture/Uniform_Resource_Identifiers/README.md)
             - [2.7.1 http URI格式](rfc7230/Architecture/Uniform_Resource_Identifiers/http_URI_Scheme.md)
             - [2.7.2 https URI格式](rfc7230/Architecture/Uniform_Resource_Identifiers/https_URI_Scheme.md)
-            - [2.7.3 http和https URI规范化和比较](rfcc7230/Architecture/Uniform_Resource_Identifiers/http_and_https_URI_Normalization_and_Comparison.md)
+            - [2.7.3 http和https URI规范化和比较](rfc7230/Architecture/Uniform_Resource_Identifiers/http_and_https_URI_Normalization_and_Comparison.md)
 - [语义和内容](rfc7231/README.md)
 - [条件请求](rfc7232/README.md)
 - [范围请求](rfc7233/README.md)
