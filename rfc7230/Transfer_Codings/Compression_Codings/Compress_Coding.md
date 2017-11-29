@@ -1,0 +1,1 @@
+“compress”编码是一种自适应的蓝波-立夫-卫曲编码法（Lempel-Ziv-Welch，缩写LZW），它通常由UNIX文件压缩程序“compress”产生。接收者**应该**认为“x-compress”与“compress”相同。 
