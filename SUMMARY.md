@@ -63,7 +63,7 @@
         - [6.3.2 管道化](rfc7230/Connection_Management/Persistence/Pipelining.md)
       - [6.4 并发](rfc7230/Connection_Management/Concurrency.md)
       - [6.5 失败和超时](rfc7230/Connection_Management/Failures_and_Timeouts.md)
-      - [6.6 销毁](rfc7230/Connection_Management/Tear-down.md)
+      - [6.6 销毁](rfc7230/Connection_Management/Tear-Down.md)
       - [6.7 Upgrade](rfc7230/Connection_Management/Upgrade.md)
 - [语义和内容](rfc7231/README.md)
 - [条件请求](rfc7232/README.md)
