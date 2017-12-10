@@ -6,7 +6,7 @@
 
 
 
-新的HTTP1.1协议由下列RFC构成
+新的HTTP1.1协议文档由下列部分构成
 
 1. [RFC7230 消息语法和路由](rfc7230/README.md)
 2. [RFC7231 语义和内容](rfc7231/README.md)
