@@ -1,0 +1,1 @@
+“HTTP传输编码注册表”定义了传输编码名称的名称空间。 它维护在<http://www.iana.org/assignments/http-parameters>。

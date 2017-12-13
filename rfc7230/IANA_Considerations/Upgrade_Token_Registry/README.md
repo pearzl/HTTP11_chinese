@@ -1,0 +1,1 @@
+“超文本转移协议（HTTP）升级令牌注册表”定义用于在“Upgrade”头字段中标识协议的协议名称令牌的名称空间。 注册表维护在<http://www.iana.org/assignments/http-upgrade-tokens>。
