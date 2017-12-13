@@ -98,7 +98,7 @@
             - [A.1.2 Keep-Alive连接](rfc7230/Appendix_A/Changes_from_http10/Keep-Alive_Connections.md)
             - [A.1.3 Transfer-Encoding介绍](rfc7230/Appendix_A/Changes_from_http10/Introduction_of_Transfer-Encoding.md)
         - [A.2 从RFC2612的改变](rfc7230/Appendix_A/Changes_from_RFC_2612.md)
-    - [附录B. 收集的ABNF](rfc7230/Appendix_B_Collected_ABNF/README.md)
+    - [附录B. 收集的ABNF](rfc7230/Appendix_B/README.md)
 - [语义和内容](rfc7231/README.md)
 - [条件请求](rfc7232/README.md)
 - [范围请求](rfc7233/README.md)

@@ -1,0 +1,1 @@
+HTTP/1.1介绍了Transfer-Encoding头字段（3.3.1节）。转移编码需要在通过MIME兼容协议转发HTTP消息之前进行解码。
