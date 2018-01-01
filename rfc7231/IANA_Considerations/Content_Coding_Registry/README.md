@@ -1,0 +1,1 @@
+“HTTP内容编码注册表”为内容编码名字定义了命名空间（RFC7230，4.2节）。内容编码注册表保留在http://www.iana.org/assignments/http-parameters。

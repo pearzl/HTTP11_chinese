@@ -1,0 +1,1 @@
+HTTP头字段被注册在“消息头”注册表中，放置于http://www.iana.org/assignments/message-headers，如BCP90定义。

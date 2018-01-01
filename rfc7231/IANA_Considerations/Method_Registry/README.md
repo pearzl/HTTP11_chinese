@@ -1,0 +1,1 @@
+“超文本转换协议（HTTP）方法注册”为请求方法令牌（4节）定义了命名空间。方法注册已经被创建并且现在保留在http://www.iana.org/assignments/http-methods。
