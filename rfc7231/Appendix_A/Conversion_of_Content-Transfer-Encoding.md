@@ -1,0 +1,3 @@
+HTTP不适用MIME的Content-Transfer-Encoding字段。从MIME兼容协议到HTTP的代理和网关需要在将响应消息传递到HTTP客户端的时候需要移除任何Content-Transfer-Encoding。
+
+从HTTP到MIME兼容协议的代理和网关有责任确保消息是正确的格式并且为在那个协议上安全的传输而编码，“安全传输“由被使用协议的限制定义。这样的网关和代理应该转换并以一个合适的Content-Transfer-Encoding标记数据，如果这么做将提高目标协议安全传输的可能性。

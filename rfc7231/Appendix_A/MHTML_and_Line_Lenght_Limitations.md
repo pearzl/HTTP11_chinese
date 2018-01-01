@@ -1,0 +1,1 @@
+与MHTML（RFC2557）实现共享代理的HTTP实现需要注意MIME行的长度限制。因为HTTP没有这个限制，HTTP不折叠长的行。通过HTTP转移的MHTML消息遵守所有的MHTML惯例，包括行长度限制和折叠，规范化等，因为HTTP转换消息体为负载并且并且，除了“multipart/byteranges”类型（RFC7233，附录A），不解析内容或任何可能包含在其中的MIME头行。

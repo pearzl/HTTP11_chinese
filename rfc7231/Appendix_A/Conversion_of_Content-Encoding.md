@@ -1,0 +1,1 @@
+MIME不包含任何与HTTP/1.1的Content-Encondig头字段等价的概念。因为这个行为作为媒体类型上的一个修改器，从HTTP到MIME兼容协议的代理和网关应该改变Content-Type头字段的值或在转发消息前解码表示。（一些针对网络邮件的Content-Type的实验性应用已经使用一个“`;conversions=<content-coding>`”的媒体类型来实现与Content-Encoding等价的功能。然而，这个参数不是MIME标准的一部分）。
