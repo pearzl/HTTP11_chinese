@@ -1,0 +1,1 @@
+“HTTP范围单元注册表”为范围单元名定义了命名空间并指向他们的对应规范。注册表已经被创建并且目前保留在http://www.iana.org/assignments/http-parameters。
