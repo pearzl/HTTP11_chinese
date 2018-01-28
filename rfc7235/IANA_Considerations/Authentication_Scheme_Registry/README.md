@@ -1,0 +1,1 @@
+“超文本转移协议（HTTP）认证方案注册表”为质询和凭证中的认证方案定义了命名空间。它已经被创建并且现在保留在http://www.iana.org/assignments/http-authschemes。
