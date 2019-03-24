@@ -1,4 +1,4 @@
-本书是HTTP1.1（RFCs7230-7237）的中文翻译。
+本书是HTTP1.1（RFCs7230-7237）的中文翻译。https://pearzl.gitbooks.io/http11_chinese
 
 鉴于网络上针对HTTP1.1的翻译多是基于已经过时的rfc2610进行的，所以本书根据RFCs7230-7237进行翻译。
 
